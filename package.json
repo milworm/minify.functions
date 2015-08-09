@@ -1,0 +1,34 @@
+{
+  "name": "new_parsers",
+  "version": "1.0.0",
+  "description": "Minifies/Obfuscates JS function names in your javascript files.",
+  "main": "m.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "async-waterfall": "^0.1.5",
+    "css": "^2.2.0",
+    "escodegen": "^1.6.1",
+    "esprima": "^2.1.0",
+    "estraverse": "^4.1.0",
+    "flowjs": "^1.0.0",
+    "mensch": "^0.3.1",
+    "sprintf": "^0.1.5",
+    "waterfall": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milworm/minify.functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milworm/minify.functions/issues"
+  },
+  "homepage": "https://github.com/milworm/minify.functions"
+}
