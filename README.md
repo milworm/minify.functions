@@ -3,6 +3,11 @@
 ## how to run:
     node m.js
 
+    $ node m.js 
+    Line    6 - AnotherClass.getName couldn't be replaced because of unknown scope.
+    Line    9 - new AnotherClass().initialize couldn't be replaced because of unknown scope.
+    done
+
 ##before:
     function Application() {
         this.name = "Cool Application";
