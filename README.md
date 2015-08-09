@@ -59,6 +59,7 @@ Minifies/Obfuscates JS function names in your javascript files.
     new Application();
 
 ## how to run:
+    npm install
     node m.js
 
     $ node m.js 
